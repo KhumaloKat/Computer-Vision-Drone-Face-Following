@@ -3,7 +3,8 @@
 ## FEATURES
 
 -Sending remote controls to the Tello drone without the use of any controller.
--Using a face-tracking module to control the Tello drone
+
+-Using a face-tracking module to control the Tello drone.
 
 ## INSTALLATION:
 
